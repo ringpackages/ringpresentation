@@ -1,2 +1,9 @@
-# ringpresentation
-A powerpoint presentation for the Ring programming language
+# RingPresentation
+
+A Powerpoint presentation for the Ring programming language.
+
+## Install
+
+	ringpm install ringpresentation
+
+
