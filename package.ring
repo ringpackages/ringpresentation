@@ -36,6 +36,6 @@ aPackageInfo = [
 	:macosfiles = 	[
 
 	],
-	:run = exefolder()+"../marketing/presentation/Ring.pptx",
+	:run = "ring main.ring",
 	:setup = ""
 ]
